@@ -12,10 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohanrj1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohanrj1997" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohanraj97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanraj97" height="30" width="40" /></a>
 <a href="https://kaggle.com/mohanraj97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohanraj97" height="30" width="40" /></a>
 <a href="https://fb.com/rex.hunterz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rex.hunterz" height="30" width="40" /></a>
-<a href="https://instagram.com/maxwell_zack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxwell_zack" height="30" width="40" /></a>
 <a href="https://medium.com/@c.mhnraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@c.mhnraj" height="30" width="40" /></a>
 </p>
